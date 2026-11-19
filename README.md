@@ -1,4 +1,4 @@
-#SwayFX DotsFiles
+# SwayFX DotsFiles
 
 <p align= "center">
     <img src="./assets/desktop.png" alt="desktop" width="100%" />
