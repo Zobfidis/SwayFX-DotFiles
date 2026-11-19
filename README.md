@@ -1,7 +1,8 @@
-# SwayFX DotFiles
+# Monochrome SwayFX DotFiles
 ![SwayFX](https://img.shields.io/badge/SwayFX-000000?style=plastic)
 <p align= "center">
     <img src="./assets/desktop.png" alt="desktop" width="100%" />
+</p>
     <br /><br />
 
 ### Info
