@@ -11,7 +11,7 @@
 * **Launcher:** Fuzzel
 * **Font:** JetBrainsMono Nerd Font
 
-### Install
+### Install ArchLinux
 ```bash
 git clone https://github.com/Zobfidis/SwayFX-DotFiles.git
 cd SwayFX-DotFiles
