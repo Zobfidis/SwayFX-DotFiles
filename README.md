@@ -1,5 +1,5 @@
 # SwayFX DotsFiles
-
+![SwayFX](https://img.shields.io/badge/SwayFX-1793D1?style=flat-square)
 <p align= "center">
     <img src="./assets/desktop.png" alt="desktop" width="100%" />
     <br /><br />
