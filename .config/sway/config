@@ -60,7 +60,7 @@ shadows_on_csd enable
     set $menu fuzzel
 
 # Background
-    output * bg ../../../wallpapers/wallpaper.png fill
+    output * bg $HOME/.config/sway/wallpapers/wallpaper.png fill
 #
 # Example configuration:
 #
