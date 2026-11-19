@@ -17,3 +17,6 @@ git clone https://github.com/Zobfidis/SwayFX-DotFiles.git
 cd SwayFX-DotFiles
 ./install.sh
 ```
+
+ <br /><br />
+ I will gradually add and update everything here.
