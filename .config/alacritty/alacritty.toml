@@ -1,0 +1,20 @@
+[general]
+import = ["./themes/Zobfidis.toml"]
+
+[font]
+size = 12
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold Italic"
+
+[window]
+opacity = 0.9
+
+[window.padding]
+x = 5
+y = 10
