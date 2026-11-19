@@ -3,7 +3,7 @@
 <p align= "center">
     <img src="./assets/desktop.png" width="100%" />
     <br /><br />
-    <img src="./assets/fuzzel.png" width="100%" />
+    <img src="./assets/fuzzel.png" width="600" />
 </p>
 
 ### Info
